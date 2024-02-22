@@ -8,6 +8,8 @@ ScriptPro 2.0
 
 Description
 -----------
+I have enjoyed using this script and I want to improve on It
+-------------------------------------------------------
 ScriptPro 2.0 is a batch processing utility that allows you to apply
 a set of commands to multiple drawings. Simply specify a script file
 that contains the commands you want to run on a single drawing, and
